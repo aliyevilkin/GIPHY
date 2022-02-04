@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(173, 233, 200);
+}
+
+#buttons{
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+#add-button{
+    color: white;
+    background-color: green;
+}
